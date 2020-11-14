@@ -93,5 +93,7 @@ body > [type="checkbox"],
   .menu ul {
     flex-direction: row;
     margin-right: 6rem; }
+  .menu a {
+    color: black; }
   .icon_menu {
     display: none; } }
