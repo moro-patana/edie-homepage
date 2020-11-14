@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "scss": "node-sass scss -o webroot/css",
-    "scss:watch": "npm run scss && node-sass scss -w -o webroot/css",
+    "scss:watch": "npm run scss && node-sass scss -w -o webroot/css"
   },
   "repository": {
     "type": "git",
