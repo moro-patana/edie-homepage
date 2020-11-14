@@ -8,6 +8,7 @@
 </head>
 <body>
     <input type="checkbox" id="menu_checkbox">
+    
     <header class="header">
         <label for="menu_checkbox" class="icon icon_menu">
             <span class="a11y">Open the menu</span>
@@ -22,7 +23,7 @@
                </h2>
                 <img class="masthead__image" src="./img/heroImage.jpg" alt="picture of people explaning lesson">
             </header>
-       <article>
+       <article id="home">
          <header class="masthead__article__purpose">
              <h2>Story, emotion and purpose</h2>
          </header>
@@ -31,8 +32,11 @@
          </p>
          <div class="article__purpose__form">
              <form action="" class="article__purpose__form__input">
-                 <input type="text" placeholder="Email"/>
-                 <button class="article__purpose__form_button">Join</button>
+                 <label>Want us to contact you?</label>
+                 <div class="article___purpose__wrapper__input">
+                     <input type="text" placeholder="Email"/>
+                     <button class="article__purpose__form_button">Join</button>
+                 </div>
              </form>
          </div>
        </article>
@@ -139,22 +143,22 @@
           </label>
         </h2>
         <ul class="menu_list">
-          <li class="list_item"><a class="menu__link menu__link--active" href="/home">Home</a></li>
+          <li class="list_item"><a class="menu__link menu__link--active" href="#home">Home</a></li>
           <li class="list_item"><a class="menu__link" href="/services">Services</a></li>
           <li class="list_item"><a class="menu__link" href="/works">Our works</a></li>
           <li class="list_item"><a class="menu__link" href="/clients">Clients</a></li>
-          <li class="list_item"><a class="menu__link" href="/contact">Contact</a></li>
+          <li class="list_item"><a class="menu__link" href="#contact">Contact</a></li>
         </ul>
       </nav> 
-      <footer>
+      <footer id="contact">
         <div class="about">
             <nav class="footer__menu">
                 <ul class="footer__menu_list">
-                  <li class="list_item"><a class="menu__link menu__link--active" href="/home">Home</a></li>
+                  <li class="list_item"><a class="menu__link menu__link--active" href="#home">Home</a></li>
                   <li class="list_item"><a class="menu__link" href="/services">Services</a></li>
                   <li class="list_item"><a class="menu__link" href="/works">Our works</a></li>
                   <li class="list_item"><a class="menu__link" href="/clients">Clients</a></li>
-                  <li class="list_item"><a class="menu__link" href="/contact">Contact</a></li>
+                  <li class="list_item"><a class="menu__link" href="#contact">Contact</a></li>
                 </ul>
               </nav> 
               <div class="social__media">
