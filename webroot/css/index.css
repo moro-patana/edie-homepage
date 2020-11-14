@@ -19,6 +19,12 @@ li {
 img {
   width: 100%; }
 
+h1 {
+  font-family: "Heebo";
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 35px; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
