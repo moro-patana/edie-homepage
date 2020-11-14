@@ -94,7 +94,8 @@ label {
 
 .article__offer__services__button--green {
   background: #27AE60;
-  color: white; }
+  color: white;
+  font-size: 27px; }
 
 .article__offer__services__button--red {
   background: #EB5757; }
