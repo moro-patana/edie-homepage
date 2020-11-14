@@ -93,6 +93,13 @@ h4 {
   line-height: 36px;
   color: #333333; }
 
+.article__offer__services__info {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #4F4F4F; }
+
 .article__offer__services__button--bluesky,
 .article__offer__services__button--green,
 .article__offer__services__button--red {
