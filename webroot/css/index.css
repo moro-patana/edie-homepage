@@ -150,6 +150,16 @@ h4 {
 .article__offer__services__button--blue {
   background-color: #2D9CDB; }
 
+.design__sample {
+  border-radius: 12px; }
+
+.article__design__brand {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  color: #828282; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
