@@ -1,3 +1,13 @@
+body {
+  margin: 0;
+  padding: 1rem; }
+
+a {
+  text-decoration: none; }
+
+li {
+  list-style: none; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
