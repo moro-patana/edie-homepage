@@ -45,6 +45,10 @@ h2 {
   line-height: 36px;
   color: #333333; }
 
+.article__purpose {
+  padding-left: 40px;
+  padding-right: 40px; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
