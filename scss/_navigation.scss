@@ -56,12 +56,10 @@
     flex-direction: column;
   }
   .menu__link {
-    font-family: "Montserrat";
     font-style: normal;
     font-size: 18px;
     line-height: 22px;
-    color: #FFFFFF;
-  
+    color: #333333;
   }
   .menu__link--active {
       font-weight: bold;
@@ -96,10 +94,7 @@
     flex-direction: row;
     margin-right: 6rem;
   }
-  .menu a {
-      color: black;
-  }
-  .icon_menu {
+   .icon_menu {
     display: none;
   }
   }
