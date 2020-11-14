@@ -1,8 +1,19 @@
-.article__offer__services__button--bluesky {
+.article__offer__services__button--bluesky,
+.article__offer__services__button--green,
+.article__offer__services__button--red {
     width: 67px;
     height: 67px;
     border: none;
-    background-color: #2D9CDB;
     border-radius: 16px;
     padding: 10px;
+}
+.article__offer__services__button--bluesky {
+    background-color: #2D9CDB;
+}
+.article__offer__services__button--green {
+    background: #27AE60;
+    color: white;
+}
+.article__offer__services__button--red {
+    background: #EB5757;
 }
