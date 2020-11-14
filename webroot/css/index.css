@@ -80,6 +80,10 @@ label {
   font-size: 12px;
   color: #4F4F4F; }
 
+.article__offer {
+  padding-left: 40px;
+  padding-right: 40px; }
+
 h3 {
   font-style: normal;
   font-weight: 500;
@@ -92,6 +96,9 @@ h4 {
   font-size: 24px;
   line-height: 36px;
   color: #333333; }
+
+.article__offer__services__list {
+  padding-top: 100px; }
 
 .article__offer__services__info {
   font-style: normal;
@@ -119,6 +126,22 @@ h4 {
 
 .article__offer__services__button--red {
   background: #EB5757; }
+
+.article__offer__services__button,
+.article__offer__services__button--blue {
+  width: 116px;
+  height: 42px;
+  border-radius: 12px;
+  border: none; }
+
+.article__offer__services__button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #828282; }
+
+.article__offer__services__button--blue {
+  background-color: #2D9CDB; }
 
 .menu {
   padding: 1rem;
