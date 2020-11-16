@@ -56,8 +56,8 @@ label {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.25rem;
+    height: 39px;
 }
 @media (min-width: 1114px) {
     .masthead {
@@ -100,12 +100,16 @@ label {
     }
     .article___purpose__wrapper__input {
         width: 350px;
-        height: 57px;
+        height: 49px;
     }
     input {
         font-weight: 500;
         font-size: 18px;
         line-height: 27px;
         color: #BDBDBD;
+    }
+    .article__purpose__form_button {
+        width: 94px;
+        height: 49px;
     }
 }
