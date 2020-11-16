@@ -26,6 +26,9 @@ img {
   width: 27px;
   height: 27px; }
 
+body > header {
+  padding: 15px; }
+
 h1 {
   font-family: "Heebo";
   font-weight: 800;
