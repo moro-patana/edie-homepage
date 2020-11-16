@@ -4,7 +4,8 @@
   src: local("Heebo"), local("Heebo"), url("../fonts/Heebo-Regular.woff2") format("woff2"), url("../fonts/Heebo-Regular.woff") format("woff"); }
 
 html {
-  font-family: "Poppins"; }
+  font-family: "Poppins";
+  font-weight: 500; }
 
 body {
   margin: 0; }
