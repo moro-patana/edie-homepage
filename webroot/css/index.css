@@ -433,17 +433,17 @@ body > [type="checkbox"],
   /* Switch from column to row flex */
   .menu ul {
     flex-direction: row;
-    margin-right: 6rem; }
+    position: absolute;
+    width: 638px;
+    top: 0;
+    right: 0;
+    padding-right: 52px;
+    padding-top: 2rem; }
   .icon_menu {
     display: none; }
   body > nav .icon_menu,
   body > header .icon_menu {
     display: none; }
-  .menu_list {
-    position: absolute;
-    width: 638px;
-    top: 0;
-    right: 0; }
   .menu__link {
     padding-left: 2rem;
     font-size: 24px;
