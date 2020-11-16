@@ -5,8 +5,10 @@
 
 html {
   font-family: "Poppins";
-  font-weight: 500;
   font-style: normal; }
+
+h2, h3 {
+  font-weight: 500; }
 
 body {
   margin: 0; }
