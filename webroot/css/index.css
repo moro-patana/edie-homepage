@@ -17,7 +17,8 @@ h3 {
   margin: 0;
   padding-top: 1rem; }
 
-button {
+button,
+a {
   cursor: pointer; }
 
 a {
