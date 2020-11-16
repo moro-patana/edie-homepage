@@ -105,7 +105,12 @@ label {
     padding-right: 140px; }
   .article__purpose {
     padding-left: 277px;
-    padding-right: 277px; } }
+    padding-right: 277px; }
+  .article__purpose__info {
+    width: 366px;
+    height: 137px;
+    font-size: 18px;
+    line-height: 27px; } }
 
 .article__offer {
   padding: 1rem; }
