@@ -58,16 +58,16 @@
     padding-bottom: 1rem;
 }
 .article__team__profile {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    column-gap: 1rem;
+    display: flex;
+    flex-direction: row;
 }
 .team__blog__post {
+    width: 122px;
+    height: 122px;
     border-radius: 24px;
-    grid-column: 1 / 2;
 }
 .article__team__about {
-    grid-column: 2 / 4;
+    padding-left: 2rem;
 }
 .article__team__name,
 .article__team__profession {
