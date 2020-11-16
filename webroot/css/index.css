@@ -361,7 +361,8 @@ body > [type="checkbox"],
     display: none; } }
 
 #contact {
-  background: #100E1D; }
+  background: #100E1D;
+  padding: 40px; }
 
 .footer__menu_list {
   margin: 0;
