@@ -5,7 +5,8 @@
 
 html {
   font-family: "Poppins";
-  font-weight: 500; }
+  font-weight: 500;
+  font-style: normal; }
 
 body {
   margin: 0; }
@@ -284,14 +285,11 @@ h4 {
   margin-top: 3rem; }
 
 .article__team__link {
-  font-style: normal;
-  font-weight: 500;
   font-size: 18px;
   line-height: 27px;
   color: #EB5757; }
 
 .article__team__info {
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
@@ -329,8 +327,6 @@ h4 {
   border-radius: 24px; }
 
 .article__quote {
-  font-style: normal;
-  font-weight: 500;
   font-size: 24px;
   line-height: 36px;
   color: #333333;
@@ -352,8 +348,6 @@ h4 {
 
 .article__team__name,
 .article__team__profession {
-  font-style: normal;
-  font-weight: 500;
   margin: 0;
   padding: 1rem; }
 
@@ -460,7 +454,6 @@ body > nav .icon_menu {
   padding-bottom: 1rem; }
 
 .menu__link {
-  font-style: normal;
   font-size: 18px;
   line-height: 22px;
   color: #333333; }
@@ -590,8 +583,7 @@ h5 {
     justify-content: space-between;
     padding-left: 113px;
     padding-right: 113px; }
-  .footer__menu_list {
-    padding: 0; }
+  .footer__menu_list,
   .social__media {
     padding: 0; }
   .form__input__wrapper {
