@@ -84,3 +84,8 @@
     line-height: 27px;
     color: #828282;
 }
+@media (min-width: 1114px) {
+    .article__team__header > h3 {
+        padding-top: 1rem;
+    }
+}
