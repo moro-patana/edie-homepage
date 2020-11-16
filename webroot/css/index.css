@@ -255,6 +255,9 @@ h4 {
   color: #2D9CDB; }
 
 @media (min-width: 1114px) {
+  .article__design {
+    padding-left: 113px;
+    padding-right: 113px; }
   .article__design__list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
