@@ -25,10 +25,6 @@ li {
 img {
   width: 100%; }
 
-.article__offer__services__icon {
-  width: 27px;
-  height: 27px; }
-
 body > header {
   padding: 15px; }
 
@@ -182,6 +178,10 @@ h4 {
   font-size: 16px;
   line-height: 24px;
   color: #4F4F4F; }
+
+.article__offer__services__icon {
+  width: 27px;
+  height: 27px; }
 
 .article__offer__services__button--bluesky,
 .article__offer__services__button--green,
