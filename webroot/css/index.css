@@ -168,6 +168,13 @@ h4 {
   line-height: 18px;
   color: #828282; }
 
+.article__design__name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #333333; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
