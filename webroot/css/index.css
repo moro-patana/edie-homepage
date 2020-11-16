@@ -65,7 +65,8 @@ h2 {
 .article___purpose__wrapper__input,
 input {
   background: #F2F2F2;
-  border-radius: 12px; }
+  border-radius: 12px;
+  padding: 1rem; }
 
 input {
   border: none; }
@@ -76,9 +77,7 @@ input {
   background: #2D9CDB;
   border-radius: 12px;
   border: none;
-  color: white;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem; }
+  color: white; }
 
 label {
   font-weight: 500;
