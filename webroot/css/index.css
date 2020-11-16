@@ -250,6 +250,14 @@ h4 {
   line-height: 27px;
   color: #2D9CDB; }
 
+@media (min-width: 1114px) {
+  .article__design__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    column-gap: 2rem;
+    row-gap: 2rem; } }
+
 .article__team {
   margin-top: 3rem; }
 
