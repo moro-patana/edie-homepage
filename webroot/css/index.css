@@ -371,6 +371,10 @@ body > [type="checkbox"],
   color: #F2F2F2;
   font-size: 18px; }
 
+.social__media {
+  padding-top: 65px;
+  padding-bottom: 65px; }
+
 h5 {
   font-family: "Heebo";
   font-weight: 800;
