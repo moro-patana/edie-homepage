@@ -106,11 +106,26 @@ label {
   .article__purpose {
     padding-left: 277px;
     padding-right: 277px; }
+  h2,
   .article__purpose__info {
     width: 366px;
-    height: 137px;
+    height: 137px; }
+  h2 {
+    font-size: 48px;
+    line-height: 72px; }
+  .article__purpose__info {
     font-size: 18px;
-    line-height: 27px; } }
+    line-height: 27px; }
+  label {
+    font-size: 14px; }
+  .article___purpose__wrapper__input {
+    width: 350px;
+    height: 57px; }
+  input {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #BDBDBD; } }
 
 .article__offer {
   padding: 1rem; }
