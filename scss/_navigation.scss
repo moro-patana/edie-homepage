@@ -119,5 +119,18 @@
   body > header .icon_menu {
     display: none;
   }
+  .menu_list {
+    position: absolute;
+    width: 638px;
+    top: 0;
+    right: 0;
+  }
+  .menu__link {
+    padding-left: 2rem;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #333333;
+  }
   }
   

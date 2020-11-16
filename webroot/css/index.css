@@ -429,7 +429,18 @@ body > [type="checkbox"],
     display: none; }
   body > nav .icon_menu,
   body > header .icon_menu {
-    display: none; } }
+    display: none; }
+  .menu_list {
+    position: absolute;
+    width: 638px;
+    top: 0;
+    right: 0; }
+  .menu__link {
+    padding-left: 2rem;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #333333; } }
 
 #contact {
   background: #100E1D;
