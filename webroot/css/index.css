@@ -256,7 +256,10 @@ h4 {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     column-gap: 2rem;
-    row-gap: 2rem; } }
+    row-gap: 2rem; }
+  .article__design__list__item:nth-of-type(1),
+  .article__design__list__item:nth-of-type(3) {
+    padding-top: 188px; } }
 
 .article__team {
   margin-top: 3rem; }
