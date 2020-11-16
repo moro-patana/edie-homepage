@@ -355,7 +355,8 @@ h4 {
 @media (min-width: 1114px) {
   .article__team {
     margin: 0;
-    padding-top: 219px; }
+    padding-top: 219px;
+    padding-bottom: 129px; }
   .article__team__header {
     padding-top: 6rem; }
   .article__team__header > h3 {
