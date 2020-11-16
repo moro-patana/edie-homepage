@@ -451,3 +451,11 @@ h5 {
   padding-top: 133px;
   padding-bottom: 45px;
   text-align: center; }
+
+@media (min-width: 1114px) {
+  .about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; }
+  .social__media {
+    padding: 0; } }
