@@ -189,6 +189,13 @@ h4 {
 .article__team {
   margin-top: 3rem; }
 
+.article__team__link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #EB5757; }
+
 .menu {
   padding: 1rem;
   border-radius: 10px;
