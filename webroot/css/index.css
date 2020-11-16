@@ -319,7 +319,8 @@ body > header .icon_menu {
   display: block;
   background-image: url("../img/menu-icon-black.svg");
   background-size: 30px;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  cursor: pointer; }
 
 body > nav .icon_menu {
   width: 30px;
@@ -327,7 +328,8 @@ body > nav .icon_menu {
   display: block;
   background-image: url("../img/close-menu-icon.svg");
   background-size: 30px;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  cursor: pointer; }
 
 .a11y,
 [type="checkbox"] {
