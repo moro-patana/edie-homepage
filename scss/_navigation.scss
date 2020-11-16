@@ -115,5 +115,9 @@
    .icon_menu {
     display: none;
   }
+  body > nav .icon_menu,
+  body > header .icon_menu {
+    display: none;
+  }
   }
   

@@ -426,6 +426,9 @@ body > [type="checkbox"],
     flex-direction: row;
     margin-right: 6rem; }
   .icon_menu {
+    display: none; }
+  body > nav .icon_menu,
+  body > header .icon_menu {
     display: none; } }
 
 #contact {
