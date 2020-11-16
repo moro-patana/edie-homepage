@@ -59,8 +59,7 @@ input {
   border-radius: 12px; }
 
 input {
-  border: none;
-  padding: 1rem; }
+  border: none; }
 
 .article__purpose__form_button {
   width: 71px;
@@ -68,7 +67,9 @@ input {
   background: #2D9CDB;
   border-radius: 12px;
   border: none;
-  color: white; }
+  color: white;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem; }
 
 label {
   font-weight: 500;
@@ -79,6 +80,13 @@ label {
 .article__purpose__info {
   font-size: 12px;
   color: #4F4F4F; }
+
+.article___purpose__wrapper__input {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem; }
 
 .article__offer {
   padding: 1rem; }
