@@ -102,7 +102,10 @@ label {
 @media (min-width: 1114px) {
   .masthead {
     padding-left: 140px;
-    padding-right: 140px; } }
+    padding-right: 140px; }
+  .article__purpose {
+    padding-left: 277px;
+    padding-right: 277px; } }
 
 .article__offer {
   padding: 1rem; }
