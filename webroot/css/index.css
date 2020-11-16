@@ -560,7 +560,8 @@ h5 {
   border-radius: 12px; }
 
 .form__input__wrapper {
-  padding: 1rem;
+  padding: 0.25rem;
+  height: 39px;
   display: flex;
   flex-direction: row;
   justify-content: space-between; }
@@ -593,4 +594,9 @@ h5 {
   .footer__menu_list {
     padding: 0; }
   .social__media {
-    padding: 0; } }
+    padding: 0; }
+  .form__input__wrapper {
+    height: 49px; }
+  .form__button {
+    width: 94px;
+    height: 49px; } }
