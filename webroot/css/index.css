@@ -178,7 +178,14 @@ h4 {
   .article__offer__services {
     display: flex;
     flex-direction: row;
-    justify-content: space-between; } }
+    justify-content: space-between; }
+  h3 {
+    width: 346px;
+    height: 108px;
+    font-size: 36px;
+    line-height: 54px;
+    padding-bottom: 42px;
+    padding-top: 200px; } }
 
 .design__sample {
   border-radius: 12px; }
