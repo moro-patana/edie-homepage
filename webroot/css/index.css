@@ -453,6 +453,9 @@ h5 {
   text-align: center; }
 
 @media (min-width: 1114px) {
+  #contact {
+    padding-left: 140px;
+    padding-right: 140px; }
   .about {
     display: flex;
     flex-direction: row;
