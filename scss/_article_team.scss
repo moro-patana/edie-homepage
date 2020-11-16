@@ -85,7 +85,23 @@
     color: #828282;
 }
 @media (min-width: 1114px) {
+    .article__team {
+        margin: 0;
+        padding-top: 219px;
+    }
+    .article__team__header {
+        padding-top: 6rem;
+    }
     .article__team__header > h3 {
         padding-top: 1rem;
+        width: 280px;
+        height: 162px;
+    }
+    .article__team__container {
+        display: flex;
+        flex-direction: row;
+    }
+    .article__team__member {
+        padding-left: 280px;
     }
 }
