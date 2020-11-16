@@ -99,6 +99,11 @@ label {
   padding-left: 1rem;
   padding-right: 1rem; }
 
+@media (min-width: 1114px) {
+  .masthead {
+    padding-left: 140px;
+    padding-right: 140px; } }
+
 .article__offer {
   padding: 1rem; }
 
@@ -168,6 +173,12 @@ h4 {
 
 .article__offer__services__button--blue {
   background-color: #2D9CDB; }
+
+@media (min-width: 1114px) {
+  .article__offer__services {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; } }
 
 .design__sample {
   border-radius: 12px; }

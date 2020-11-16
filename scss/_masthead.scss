@@ -59,3 +59,9 @@ label {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+@media (min-width: 1114px) {
+    .masthead {
+        padding-left: 140px;
+        padding-right: 140px;
+    }
+}
